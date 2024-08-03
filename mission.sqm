@@ -16,10 +16,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={3977.8894,120.01763,10232.128};
-		dir[]={0.86927396,-0.48082229,0.11480633};
-		up[]={0.47668573,0.87681824,0.062956646};
-		aside[]={0.13093507,-2.1536835e-008,-0.9913969};
+		pos[]={4044.1243,317.87479,10441.36};
+		dir[]={0.61086768,-0.59952652,-0.517133};
+		up[]={0.45758426,0.80034834,-0.38736972};
+		aside[]={-0.64612365,1.2037344e-007,-0.76323968};
 	};
 };
 binarizationWanted=0;
@@ -444,15 +444,16 @@ class Mission
 			dataType="Logic";
 			class PositionInfo
 			{
-				position[]={4117.5322,160.31299,10279.843};
+				position[]={4117.5322,160.31302,10279.843};
 				angles[]={0,5.5148215,0};
 			};
+			name="hide_bluefor_air_base";
 			areaSize[]={250,0,60};
 			areaIsRectangle=1;
 			flags=1;
 			id=14;
 			type="ModuleHideTerrainObjects_F";
-			atlOffset=92.413963;
+			atlOffset=92.413994;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -477,7 +478,7 @@ class Mission
 						class data
 						{
 							singleType="BOOL";
-							value=0;
+							value=1;
 						};
 					};
 				};
@@ -565,8 +566,8 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={4114.1738,70.456741,10292.338};
-				angles[]={6.2655902,5.4846344,0};
+				position[]={4114.1738,70.457108,10292.338};
+				angles[]={6.2655926,5.4846272,0};
 			};
 			side="Empty";
 			flags=4;
@@ -577,7 +578,6 @@ class Mission
 			};
 			id=71;
 			type="rhs_uh1h_hidf_gunship";
-			atlOffset=-0.00036621094;
 		};
 		class Item8
 		{
@@ -1119,7 +1119,7 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={4086.6794,71.888283,10270.408};
+				position[]={4086.679,71.888283,10270.408};
 				angles[]={0,5.4906135,0};
 			};
 			side="Empty";
@@ -1127,6 +1127,7 @@ class Mission
 			class Attributes
 			{
 				lock="UNLOCKED";
+				name="chinook_1";
 				reportOwnPosition=1;
 			};
 			id=119;
@@ -1138,7 +1139,7 @@ class Mission
 			class PositionInfo
 			{
 				position[]={4116.5288,68.160004,10296.206};
-				angles[]={0,6.0611567,0};
+				angles[]={0,6.061162,0};
 			};
 			id=132;
 			type="ModuleRespawnVehicle_F";
@@ -1244,7 +1245,7 @@ class Mission
 						class data
 						{
 							singleType="STRING";
-							value="2";
+							value="1";
 						};
 					};
 				};
@@ -1459,13 +1460,14 @@ class Mission
 			class PositionInfo
 			{
 				position[]={4070.457,71.891022,10253.3};
-				angles[]={0,5.4906135,0.001544081};
+				angles[]={0,5.4906135,0.0015358897};
 			};
 			side="Empty";
 			flags=4;
 			class Attributes
 			{
 				lock="UNLOCKED";
+				name="chinook_2";
 				reportOwnPosition=1;
 			};
 			id=149;
