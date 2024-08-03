@@ -17,9 +17,9 @@ class EditorData
 	class Camera
 	{
 		pos[]={4095.5291,120.10721,10270.32};
-		dir[]={-0.80711567,-0.51422727,-0.29014117};
-		up[]={-0.48392731,0.85764152,-0.17396058};
-		aside[]={-0.33829454,-1.9173604e-007,0.941064};
+		dir[]={-0.76204175,-0.52249622,-0.38254091};
+		up[]={-0.46697766,0.85262901,-0.23441911};
+		aside[]={-0.44865072,-2.2270251e-007,0.89373237};
 	};
 };
 binarizationWanted=0;
@@ -215,7 +215,7 @@ randomSeed=14617328;
 class ScenarioData
 {
 	author="Flodder";
-	overviewText="Mess around with RHS assets on the livonia terrain!" \n "" \n "TODO:""" \n "-Add OPFOR base+spawns" \n "-create actual tasks/objectives" \n "-add version control";
+	overviewText="Mess around with RHS assets on the Livonia terrain!" \n "" \n "TODO:""" \n "-Add OPFOR base+spawns" \n "-create actual tasks/objectives" \n "";
 	disabledAI=1;
 	respawn=3;
 	respawnDelay=5;
