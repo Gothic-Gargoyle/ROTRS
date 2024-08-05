@@ -8,7 +8,7 @@ class EditorData
 	toggles=1;
 	class ItemIDProvider
 	{
-		nextID=660;
+		nextID=664;
 	};
 	class MarkerIDProvider
 	{
@@ -16,14 +16,14 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=13;
+		nextID=16;
 	};
 	class Camera
 	{
-		pos[]={1461.072,69.33667,7564.7319};
-		dir[]={-0.83994985,-0.5087567,0.18944724};
-		up[]={-0.49635124,0.86086857,0.11195039};
-		aside[]={0.22004296,2.2958266e-006,0.97560531};
+		pos[]={3857.7307,308.76926,10413.948};
+		dir[]={0.5760867,-0.57145047,-0.5846445};
+		up[]={0.40112278,0.82059145,-0.40708503};
+		aside[]={-0.71238208,2.0277221e-006,-0.70195258};
 	};
 };
 binarizationWanted=0;
@@ -6405,7 +6405,7 @@ class Mission
 			};
 			id=302;
 			type="RHS_Mi24P_vdv";
-			atlOffset=0.0011291504;
+			atlOffset=-0.00039672852;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -6440,7 +6440,6 @@ class Mission
 			};
 			id=308;
 			type="RHS_Mi24P_vdv";
-			atlOffset=0.0014953613;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -6475,7 +6474,7 @@ class Mission
 			};
 			id=312;
 			type="RHS_Mi24P_vdv";
-			atlOffset=0.00085449219;
+			atlOffset=-0.0004119873;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -16129,6 +16128,7 @@ class Mission
 					};
 					id=650;
 					type="RoadBarrier_F";
+					atlOffset=0.17402458;
 				};
 				class Item10
 				{
@@ -16146,10 +16146,11 @@ class Mission
 					};
 					id=651;
 					type="RoadBarrier_F";
+					atlOffset=0.046677589;
 				};
 			};
 			id=652;
-			atlOffset=-0.087284565;
+			atlOffset=-0.087400436;
 		};
 		class Item250
 		{
@@ -16201,7 +16202,7 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={1270.458,-3.3426955,7559.3511};
+				position[]={1272.407,-1.3881862,7560.4077};
 				angles[]={0,5.6570659,0.69813168};
 			};
 			side="Empty";
@@ -16211,7 +16212,7 @@ class Mission
 			};
 			id=654;
 			type="Land_Rail_Bridge_40_F";
-			atlOffset=0.53240466;
+			atlOffset=2.842485;
 		};
 		class Item252
 		{
@@ -16233,7 +16234,7 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={1231.106,14.983454,7603.7202};
+				position[]={1231.2922,15.059254,7603.7617};
 			};
 			side="Empty";
 			flags=5;
