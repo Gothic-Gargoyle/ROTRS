@@ -8,7 +8,7 @@ class EditorData
 	toggles=1;
 	class ItemIDProvider
 	{
-		nextID=656;
+		nextID=658;
 	};
 	class MarkerIDProvider
 	{
@@ -20,10 +20,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={1332.2418,80.750008,7641.2759};
-		dir[]={-0.57411218,-0.72999787,-0.37088397};
-		up[]={-0.6131773,0.68345046,-0.39611936};
-		aside[]={-0.5426451,8.3772466e-007,0.83999157};
+		pos[]={1238.1248,27.523441,7530.7041};
+		dir[]={-0.352801,-0.37239224,0.85846245};
+		up[]={-0.14156464,0.92806506,0.34446755};
+		aside[]={0.92498207,1.1326047e-006,0.38013637};
 	};
 };
 binarizationWanted=0;
@@ -72,13 +72,15 @@ addons[]=
 	"rhs_c_cars",
 	"A3_Ui_F",
 	"A3_Ui_F_Enoch",
-	"A3_Structures_F_Enoch_Infrastructure_Railways"
+	"A3_Structures_F_Enoch_Infrastructure_Railways",
+	"A3_Structures_F_Enoch_Military_Flags",
+	"A3_Structures_F_Mil_Flags"
 };
 class AddonsMetaData
 {
 	class List
 	{
-		items=39;
+		items=40;
 		class Item0
 		{
 			className="rhsusf_c_troops";
@@ -350,6 +352,13 @@ class AddonsMetaData
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
 		};
+		class Item39
+		{
+			className="A3_Structures_F_Enoch_Military";
+			name="Arma 3 Contact Platform - Military Buildings and Structures";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
 	};
 };
 dlcs[]=
@@ -489,7 +498,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=252;
+		items=254;
 		class Item0
 		{
 			dataType="Group";
@@ -16203,6 +16212,38 @@ class Mission
 			id=654;
 			type="Land_Rail_Bridge_40_F";
 			atlOffset=0.53240466;
+		};
+		class Item252
+		{
+			dataType="Object";
+			class PositionInfo
+			{
+				position[]={1237.6476,15.059266,7608.2002};
+			};
+			side="Empty";
+			flags=5;
+			class Attributes
+			{
+			};
+			id=656;
+			type="Flag_Enoch_F";
+			atlOffset=0.07581234;
+		};
+		class Item253
+		{
+			dataType="Object";
+			class PositionInfo
+			{
+				position[]={1231.1064,14.983465,7603.7534};
+			};
+			side="Empty";
+			flags=5;
+			class Attributes
+			{
+			};
+			id=657;
+			type="Flag_NATO_F";
+			atlOffset=1.1444092e-005;
 		};
 	};
 	class Connections
