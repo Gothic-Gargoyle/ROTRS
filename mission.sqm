@@ -20,10 +20,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={1461.9709,17.835655,7557.5313};
-		dir[]={-0.23759165,-0.44045568,-0.86576861};
-		up[]={-0.11656498,0.89777273,-0.42475522};
-		aside[]={-0.96434963,1.9429717e-007,0.26464587};
+		pos[]={1200.2556,31.917326,7634.1738};
+		dir[]={0.75680476,-0.28264195,-0.58937281};
+		up[]={0.22299738,0.95922548,-0.17366248};
+		aside[]={-0.61442572,0,-0.78897482};
 	};
 };
 binarizationWanted=0;
@@ -12714,7 +12714,7 @@ class Mission
 			};
 			id=453;
 			type="ModuleRespawnVehicle_F";
-			atlOffset=7.6293945e-006;
+			atlOffset=0.85995483;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -17805,7 +17805,7 @@ class Mission
 				};
 			};
 			id=749;
-			atlOffset=0.0044379234;
+			atlOffset=-2.1747403;
 		};
 		class Item267
 		{
@@ -18666,7 +18666,7 @@ class Mission
 				};
 			};
 			id=784;
-			atlOffset=0.0045437813;
+			atlOffset=-5.2773714;
 		};
 		class Item268
 		{
@@ -19551,7 +19551,7 @@ class Mission
 				};
 			};
 			id=819;
-			atlOffset=0.055063248;
+			atlOffset=-4.0512772;
 		};
 		class Item269
 		{
@@ -20412,7 +20412,7 @@ class Mission
 				};
 			};
 			id=855;
-			atlOffset=0.00080490112;
+			atlOffset=-8.7142639;
 		};
 		class Item270
 		{
@@ -21279,7 +21279,7 @@ class Mission
 				};
 			};
 			id=890;
-			atlOffset=-0.009531498;
+			atlOffset=-12.555939;
 		};
 		class Item271
 		{
@@ -22146,7 +22146,7 @@ class Mission
 				};
 			};
 			id=925;
-			atlOffset=0.0066757202;
+			atlOffset=-17.884241;
 		};
 		class Item272
 		{
@@ -24251,7 +24251,7 @@ class Mission
 				};
 			};
 			id=979;
-			atlOffset=0.17501831;
+			atlOffset=-208.71722;
 		};
 		class Item273
 		{
@@ -24877,7 +24877,7 @@ class Mission
 				};
 			};
 			id=1079;
-			atlOffset=0.22454834;
+			atlOffset=-288.07104;
 		};
 		class Item274
 		{
@@ -26749,7 +26749,7 @@ class Mission
 				};
 			};
 			id=1115;
-			atlOffset=-0.0039367676;
+			atlOffset=-225.19037;
 		};
 		class Item275
 		{
@@ -26765,6 +26765,7 @@ class Mission
 			};
 			id=1181;
 			type="Flag_Viper_F";
+			atlOffset=4.7683716e-007;
 		};
 	};
 	class Connections
