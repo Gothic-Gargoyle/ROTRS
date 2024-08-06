@@ -505,7 +505,7 @@ class Mission
 	appId=304380;
 	class Intel
 	{
-		briefingName="Livonia 1991: Remnants of the Red Star";
+		briefingName="Livonia 199x: Remnants of the Red Star";
 		overviewText="A Russian general has gone rogue, sieze back the land he controls! Or join him...";
 		timeOfChanges=1800.0002;
 		startWeather=0.30000001;
