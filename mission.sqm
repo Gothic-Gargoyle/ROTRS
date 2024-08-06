@@ -16,18 +16,18 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=70;
+		nextID=85;
 	};
 	class Camera
 	{
-		pos[]={1198.1052,197.40031,7778.271};
-		dir[]={0.51108134,-0.67793578,-0.52839673};
-		up[]={0.47132266,0.73512048,-0.48729053};
-		aside[]={-0.71878707,7.4971467e-008,-0.69523281};
+		pos[]={1461.9709,17.835655,7557.5313};
+		dir[]={-0.23759165,-0.44045568,-0.86576861};
+		up[]={-0.11656498,0.89777273,-0.42475522};
+		aside[]={-0.96434963,1.9429717e-007,0.26464587};
 	};
 };
 binarizationWanted=0;
-sourceName="RHSLivonia";
+sourceName="ROTRS";
 addons[]=
 {
 	"rhsusf_c_troops",
@@ -26756,7 +26756,7 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={1466.21,9.6936951,7534.9175};
+				position[]={1458.291,9.8268051,7547.2559};
 			};
 			side="Empty";
 			flags=5;
@@ -26765,7 +26765,6 @@ class Mission
 			};
 			id=1181;
 			type="Flag_Viper_F";
-			atlOffset=-0.017411232;
 		};
 	};
 	class Connections
