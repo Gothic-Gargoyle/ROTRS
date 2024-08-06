@@ -1,5 +1,8 @@
 # Changelog
 
+# 06/08/2024 15:46
+- Added sectors with roadblocks on all the road bridges
+
 # 06/08/2024 13:17
 - Expanded lore
 - renamed mission to reflect lore
