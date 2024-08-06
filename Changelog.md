@@ -1,6 +1,9 @@
 # Changelog
 
 # 06/08/2024 15:46
+- Added sector at SILA works with roadblocks on all the road access ways.
+
+# 06/08/2024 15:46
 - Added sectors with roadblocks on all the road bridges
 
 # 06/08/2024 13:17
