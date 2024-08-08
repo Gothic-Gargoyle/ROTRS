@@ -20,10 +20,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={4222.4526,119.87807,10509.033};
-		dir[]={0.22549957,-0.40520796,-0.88597769};
-		up[]={0.099947236,0.91422451,-0.39268821};
-		aside[]={-0.96910292,0,-0.24665666};
+		pos[]={4271.5815,88.942841,10417.886};
+		dir[]={0.62030709,-0.65884387,-0.42561838};
+		up[]={0.54325938,0.75227958,-0.37275311};
+		aside[]={-0.56576949,1.8114224e-007,-0.82456702};
 	};
 };
 binarizationWanted=0;
@@ -2982,7 +2982,7 @@ class Mission
 						angles[]={0,5.4063401,-0};
 					};
 					side="West";
-					flags=7;
+					flags=5;
 					class Attributes
 					{
 						isPlayable=1;
@@ -3113,7 +3113,7 @@ class Mission
 						angles[]={0,5.2722473,-0};
 					};
 					side="West";
-					flags=5;
+					flags=7;
 					class Attributes
 					{
 						isPlayable=1;
@@ -3333,7 +3333,6 @@ class Mission
 			{
 			};
 			id=220;
-			atlOffset=7.6293945e-006;
 		};
 		class Item71
 		{
