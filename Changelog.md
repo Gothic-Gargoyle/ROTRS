@@ -1,4 +1,6 @@
 # Changelog
+# 16/08/2024
+-Sector controls are now tasks
 
 # 06/08/2024 22:08
 - Added sector at SILA works with roadblocks on all the road access ways.
