@@ -11,3 +11,10 @@
 
 ## OPFOR:
 - Add actual opfor ground targets to shoot at!
+- Fix bridgeheadsectors to become actual tasks
+
+
+rework to make it more mission-like
+-begin mission at insert point in North west of map go to castle ruins (Join up with local forces) to gain intel about SAM sites around airfield, capture airfield to gain some limited nato supplies (no respawns) (airdrops happen even if SAM sites are not disabled), eventually execute general with extreme prejudice.
+
+OPTIONAL: capture a bridge, establish FOB at other side of river to enable respawn point
