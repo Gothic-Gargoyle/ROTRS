@@ -10,7 +10,7 @@ With NATO backing the government of Livonia, the fight for the full liberation o
 # Intention of the mission
 This is the sandbox mission I use on my ARMA3 server for RHS related tomfoolery. It contains a BLUEFOR and an OPFOR base (USA vs Russians).
 
-The idea of the mission is sort of antistasi in nature, but my own spin on it. This is primairly to teach myself how to create missions in ARMA3.
+The idea of the mission is sort of antistasi in nature, but my own spin on it. This is primarily to teach myself how to create missions in ARMA3.
 
 There is plenty of aircraft for flying around and stuff on the ground for target practice, there is also stuff for slingloading like ammo crates and HMMVs!
 
