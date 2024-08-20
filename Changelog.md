@@ -1,7 +1,10 @@
 # Changelog
+# 20/08/2024
+- Added task to destroy SAM site.
+
 # 16/08/2024
--Sector controls are now tasks
--started work on converting missions from sandbox to actual mission-mission
+- Sector controls are now tasks
+- started work on converting missions from sandbox to actual mission-mission
 
 # 06/08/2024 22:08
 - Added sector at SILA works with roadblocks on all the road access ways.

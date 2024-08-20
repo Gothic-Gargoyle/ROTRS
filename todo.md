@@ -14,7 +14,14 @@
 - Fix bridgeheadsectors to become actual tasks
 
 
-rework to make it more mission-like
--begin mission at insert point in North west of map go to castle ruins (Join up with local forces) to gain intel about SAM sites around airfield, capture airfield to gain some limited nato supplies (no respawns) (airdrops happen even if SAM sites are not disabled), eventually execute general with extreme prejudice.
+# rework
+ After feedback from friends i decided to rework the mission to make it less of an arcade and more of an actual mission.
 
-OPTIONAL: capture a bridge, establish FOB at other side of river to enable respawn point
+## mission rundown
+- Begin mission at insert point in North west of map
+- Go to castle ruins (Join up with local forces) to gain intel about SAM sites around airfield
+- Destroy SAM sites
+- Capture airfield to gain some limited nato supplies (no respawns) (airdrops happen even if SAM sites are not disabled), 
+- Eventually execute general with extreme prejudice.
+
+OPTIONAL: capture a bridge, establish FOB at other side of river to enable respawn point closer to final objective.sd
